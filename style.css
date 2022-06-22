@@ -4,7 +4,7 @@
     height: 100px;
     width: 500px;
     text-align: center;
-    margin-left: 130px;
+    margin-left: 160px;
     font: bolder;
 }
 .p2
@@ -21,7 +21,7 @@
     text-align: center;
     padding: 50px;
     font-family: 'Sacramento', cursive;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 .dice-img
 {
